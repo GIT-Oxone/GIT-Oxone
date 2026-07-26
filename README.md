@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 <!--
 **GIT-Oxone/GIT-Oxone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Nerd+Font+Mono&size=25&pause=1000&color=FFFFFF&center=true&width=600&height=100&lines=Welcome.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Nerd+Font+Mono&size=25&pause=1000&color=FFFFFF&center=true&width=800&height=100&lines=Welcome.)](https://git.io/typing-svg)
 <!--
 **GIT-Oxone/GIT-Oxone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

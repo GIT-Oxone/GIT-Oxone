@@ -1,4 +1,4 @@
-## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome.)](https://git.io/typing-svg)
 
 <!--
 **GIT-Oxone/GIT-Oxone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

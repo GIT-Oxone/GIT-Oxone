@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Nerd+Font+Mono&size=25&pause=1000&color=FFFFFF&center=true&width=1000&height=100&lines=Welcome.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=700&size=35&letterSpacing=pause&pause=1000&color=D2D2D2FF&width=435&lines=Welcome.)](https://git.io/typing-svg)
 
 <div align = 'center'>
   <p>

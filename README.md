@@ -6,4 +6,4 @@
 
 <br> 
 
-<h2 align="center"> <em>ABOUT ME</em></h2>
+<h2 align="center">ABOUT ME</h2>
